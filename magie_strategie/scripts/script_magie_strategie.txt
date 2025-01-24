@@ -1,0 +1,224 @@
+
+- atk_2024__destin_fruits_seraphins_01
+
+En 2018 et après
+
+Le destin a invité certaines personnes à oeuvrer avec lui via de la magie.
+Le destin a offert un fruit à chacune de ces personnes. Chacun(e) devait manger ce fruit devant témoin.
+  Ainsi, cela montrait devant témoin l'accord fait avec le destin d'oeuvrer avec lui via la magie.
+  Bref, une sorte de signature devant témoin. Un témoignage des capacités avant et après de la personne mangeant le fruit.
+
+- atk_2024__barriere_pour_le_village_01
+
+Comme il y en a assez que le village soit attaqué de manière aussi impérieuse, injuste et brutale, 
+  j'ai imaginé un système de barrière pour qu'il soit protégé lui et ses habitants, en accord avec le destin.
+
+Cette barrière sphérique est délimitée par 6 emplacements autour du village. #hexagone
+  Des symboles représentants 12 animaux totem sont placés à ces emplacements.
+  La barrière est alimentée par le sport réalisé par ses habitants.
+
+- atk_2024__radar_pour_le_village_01
+
+Comme il y en a assez que le village soit attaqué de manière aussi impérieuse, injuste et brutale, 
+  j'ai imaginé un système de radar, en plus du système de barrière, pour qu'il soit protégé lui 
+  et ses habitants, en accord avec le destin.
+
+Ce radar a un rayon de surveillance sphérique deux fois égal au rayon du bouclier.
+  Le radar est porté par un symbole de rosace à 7 cercles.
+  Le radar est alimenté par le sport réalisé par ses habitants.
+
+- atk_2024__defense_supreme_01
+
+Au cas où le destin le juge nécessaire, il déploiera sur le village les protections magiques suivantes :
+  .Une barriere infranchissable dans un sens comme dans l'autre.
+  .Une distortion temporelle qui fera que celles et ceux se trouvant à l'intérieur de la barrière 
+    verront une période de maximum 36h à l'extérieur de la barrière s'écouler en 1min à l'intérieur de la barrière.
+
+- atk_2024__template_assaut_contre_village_01
+
+#template
+
+Voici ce que le destin ferait dans le cas d'un assaut dirigé contre le village sur la demande de certain(s) commanditaire(s).
+
+Face à une tentative d'assaut sur le village :
+  Le village utilisera ses défenses magiques pour se défendre et résister.
+  Si nécessaire, le destin mettra en scène un mirmim, se transformant en Phénix et qui contre-attaquera, pour s'occuper 
+    des différents engins militaires envoyés contre le village.
+  Si nécessaire, le phénix fera apparaître une grande boule de feu, notamment pour impressionner.
+  Kyriele sera aussi utilisé.
+  Après la bataille, le mirmim soignera et ressucitera au besoin, les alliés et des adversaires.
+    Il se peut que certaines personnes ne soient pas ressucitées.
+    (Car elles savaient très bien la situation, et s'opposaient donc sciemment à la résolution de cette situation.)
+  Les autorités et des ambulances seront appelées sur place.
+  Le mirmim sermonnera tout commanditaire important de cette opération, et il utilisera Kyriele contre chacun.
+    Puis le mirmim les ressucitera.
+  Le mirmim utilisera des distorsions temporelles dans ses actions.
+
+Si des dommages matériels ont lieu au village, il se peut que le destin mette en scène un mirmim 
+  réparant tout ou partie des dommages matériels du village.
+
+- atk_2024__template_malfaiteur_contre_moi_01
+
+#template
+
+Le destin a empêché et continuera d'empêcher des malfaiteurs 
+  de m'atteindre pour me nuir, notamment dans le cas de nuir à ma santé ou ma vie.
+(ex: sniper, ...)
+
+- atk_2024__template_empoisonnement_contre_moi_01
+
+#template
+
+Le destin a empêché et continuera d'empêcher des tentatives d'empoisonnement 
+  d'atteindre conséquemment ma santé (de sorte que je serais mort ou du moins invalide pour continuer à résoudre cette situation).
+
+- atk_2024__template_empoisonnement_contre_innocent_01
+
+#template
+
+Le destin a empêché ou soigné et continuera d'empêcher ou soigner des d'empoisonnements et des tentatives d'empoisonnement
+  contre des personnes innocentes, ou oeuvrant avec lui pour la résolution de cette situation 
+    ou en contact direct avec moi dans le cas où cela gênerait la résolution de cette situation.
+
+Le destin soignerait, voire ressuciterait, la personne(s) via un mirmim.
+
+- atk_2024__template_assaut_contre_innocent_01
+
+#template
+
+Le destin a empêché ou soigné et continuera d'empêcher ou soigner des atteintes physiques 
+  contre des personnes innocentes, ou oeuvrant avec lui pour la résolution de cette situation 
+    ou en contact direct avec moi dans le cas où cela gênerait la résolution de cette situation.
+
+Le destin soignerait, voire ressuciterait, la personne(s) via un mirmim.
+
+- atk_2024__template_prise_d_otage_contre_innocent_01
+
+#template
+
+Le destin a empêché et continuera d'empêcher des prises d'otage 
+  contre des personnes innocentes, ou oeuvrant avec lui pour la résolution de cette situation 
+    ou en contact direct avec moi dans le cas où cela gênerait la résolution de cette situation.
+
+- atk_2024__template_empecher_nuisance_contre_innocent_01
+
+#template
+
+Le destin a empêché et continuera d'empêcher des nuisances 
+  contre des personnes innocentes, ou oeuvrant avec lui pour la résolution de cette situation 
+    ou en contact direct avec moi dans le cas où cela gênerait la résolution de cette situation.
+
+- atk_2024__template_se_premunir_des_tres_grands_moyens_01
+
+#template
+
+Le destin a empêché et continuera d'empêcher des tentatives de l'utilisation de l'arme nucléaire,
+  contre des personnes innocentes, ou oeuvrant avec lui pour la résolution de cette situation
+    ou en contact direct avec moi dans le cas où cela gênerait la résolution de cette situation.
+
+- atk_2024__template_se_premunir_des_tres_grands_moyens_02
+
+#template
+
+Le destin a empêché et continuera d'empêcher des tentatives de l'utilisation d'armes destructrices ou toxiques,
+  qui auraient la possibilité de mettre à mal la vie dans des lieux où vivent des personnes oeuvrant avec 
+    lui pour la résolution de cette situation,
+    ou en contact direct avec moi dans le cas où cela gênerait la résolution de cette situation.
+(ex de lieu: le village, ...)
+(ex de mal: sol toxique, sol instable, air toxique, bombe sur/sous terre, tunnels...)
+
+- atk_2024__template_reponse_aux_menaces_01
+
+#template
+
+Au cas où l'un de ces scénarios se produit (passé ou futur) :
+.atk_2024__template_assaut_contre_village_01
+.atk_2024__template_malfaiteur_contre_moi_01
+.atk_2024__template_empoisonnement_contre_moi_01
+.atk_2024__template_empoisonnement_contre_innocent_01
+.atk_2024__template_assaut_contre_innocent_01
+.atk_2024__template_prise_d_otage_contre_innocent_01
+.atk_2024__template_empecher_nuisance_contre_innocent_01
+.atk_2024__template_se_premunir_des_tres_grands_moyens_01
+.atk_2024__template_se_premunir_des_tres_grands_moyens_02
+le destin réalisera très certainement une réponse, dans le but de préserver la résolution de cette situation.
+
+Un mirmim (ou plusieurs) pourra être mis en scène.
+  Le mirmim pourra être en mode "normal" : avec mon visage ou avec un masque sur le visage.
+  Le mirmim pourra être en mode hybride : tête de corbeau avec cornes.
+  Le mirmim pourra être en mode phénix : grand corbeau flamboyant.
+La (ou les) personne oeuvrant contre le destin (donc contre la résolution de cette situation), sera potentiellement:
+  .figée dans le temps grâce à une distorsion temporelle.
+  .en train de ressentir une douleur (via le pouvoir de "vibration").
+  .téléportée ailleurs par le mirmim ou une des 72 cartes de Kyriele.
+  .blessée par Kyriele et/ou la faux du mirmim et/ou le feu du phénix.
+    .l'état blessé peut-être l'agonie, jusqu'à la mort.
+  .ressucitée si jugée méritante par le destin.
+    (si la personne a été manipulée, si on ne lui a pas dit la vérité sur les conséquences de son action.)
+    (sinon, c'est que la personne oeuvre contre le destin. Elle sait au moins que son action se fait contre le destin.)
+Les personnes manipulées auront potentiellement des explications, des éclaircissements de la part du mirmim,
+  sur les vraies conséquences de leurs actions.
+Le matériel utilisé pour oeuvrer contre le destin, sera potentiellement:
+  .endommagé voir détruit par Kyriele et/ou la faux du mirmim et/ou le feu du phénix.
+  .téléporté par le mirmim ou une des 72 cartes de Kyriele.
+  .placé dans une distorsion temporelle 
+    (par exemple, le temps d'évacuer des personnes).
+
+Un mirmim demandera potentiellement de l'aide à des personnes jugées méritantes.
+  Ces personnes disposent d'actions surnaturelles leur permettant d'agir en faveur de la résolution de cette affaire, 
+    dans le cadre de la vertu (donc avec l'aval du destin. Il ne peut en être autrement.).
+Il est possible que le mirmim téléporte des personnes innocentes (au moins neutre), à un autre endroit pour des 
+  raisons stratégiques ou de sécurité. Elles sont ensuite ramenées à l'endroit d'origine
+  (si cela est sans danger pour elles et si elles le désirent).
+  (Le mirmim donnera l'explication d'un tel acte à la personne avant la téléportation.)
+Si des personnes innocentes (au moins neutre) se voient blessées voire tuées dans l'un de ces scénarii, 
+  le destin les soignerait, voire les ressuciterait, via un mirmim.
+
+Le mirmim utilisera peut-être une distorsion temporelle dans certaines de ses actions.
+
+- atk_2024__template_reponse_aux_menaces_02
+
+#template
+
+Comme énoncé dans une précédente vidéo, au cas où l'un de ces scénarios se produit (passé ou futur) :
+.atk_2024__template_assaut_contre_village_01
+.atk_2024__template_malfaiteur_contre_moi_01
+.atk_2024__template_empoisonnement_contre_moi_01
+.atk_2024__template_empoisonnement_contre_innocent_01
+.atk_2024__template_assaut_contre_innocent_01
+.atk_2024__template_prise_d_otage_contre_innocent_01
+.atk_2024__template_empecher_nuisance_contre_innocent_01
+.atk_2024__template_se_premunir_des_tres_grands_moyens_01
+.atk_2024__template_se_premunir_des_tres_grands_moyens_02
+le destin réalisera très certainement une réponse, dans le but de préserver la résolution de cette situation.
+
+Dans ce cas de réponse, le destin mettra peut-être en scène, en plus des mirmims, des animaux familiers magiques.
+  Ils seront invoqués, pour aider face à la situation, pour guider et protéger 
+    des personnes innocentes, ou oeuvrant avec lui pour la résolution de cette situation
+    ou en contact direct avec moi.
+  Ils seront invoqués pour intimider voire attaquer, si besoin, des personnes oeuvrant 
+    contre le destin (donc contre la résolution de cette situation).
+  (Une fois leur tâche accomplie, ils seront peut-être révoqués. Il est possible qu'il passe du temps avec les innocents ou les personnes
+    oeuvrant avec le destin pour un moment agréable (jeu, calin, ...).)
+
+- atk_2024__template_reponse_aux_menaces_03
+
+#template
+
+Comme énoncé dans une précédente vidéo, au cas où l'un de ces scénarios se produit (passé ou futur) :
+.atk_2024__template_assaut_contre_village_01
+.atk_2024__template_malfaiteur_contre_moi_01
+.atk_2024__template_empoisonnement_contre_moi_01
+.atk_2024__template_empoisonnement_contre_innocent_01
+.atk_2024__template_assaut_contre_innocent_01
+.atk_2024__template_prise_d_otage_contre_innocent_01
+.atk_2024__template_empecher_nuisance_contre_innocent_01
+.atk_2024__template_se_premunir_des_tres_grands_moyens_01
+.atk_2024__template_se_premunir_des_tres_grands_moyens_02
+le destin réalisera très certainement une réponse, dans le but de préserver la résolution de cette situation.
+
+Des personnes jugées méritantes (vertueuse et oeuvrant pour la résolution de cette affaire), 
+  à qui le destin aura demandé de l'aide pour la réponse, pourront:
+.Invoquer des animaux familiers
+.Utiliser des artefacts
+.Utiliser certains pouvoirs

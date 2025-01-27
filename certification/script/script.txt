@@ -1,0 +1,16 @@
+
+- misc__certification_01
+
+v1
+
+A ce jour, il n'y a que les repositories des comptes Github suivants à considérer : 
+.celui de cette vidéo: finalfantastique
+.auraseraphin
+
+Pour qu'un changement à cette déclaration puisse être considéré, 
+  il faut que cette vidéo ne se retrouve dans aucun des comptes cités.
+
+--
+
+Je certifie que je suis l'auteur de ce fichier, dont je confirme le contenu.
+Aymeric Pellé

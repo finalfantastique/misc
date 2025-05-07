@@ -1,0 +1,36 @@
+
+- recit14__01
+
+# cpp_copieur_01
+
+Emile Gaultier s'est fait passer pour l'auteur de l'une de mes idées de code en C++.
+  (Le code en question est l'implémentation de classes C++ pour faire de la gestion d'évènements (signal).
+    https://github.com/users/arapelle/projects/5/views/5?pane=issue&itemId=34023163&issue=arapelle%7Carba-evnt%7C7
+  )
+  Le but était d'impressionner Emma pour la séduire.
+  L'autre but était aussi de s'infiltrer dans l'entreprise d'informatique indirecte.
+    En effet, avec le différent avec Julia chez Netatmo, Emile cherchait une solution de secours.
+
+# cpp_copieur_02
+
+Gaetan Michaud s'est fait passer pour l'auteur de l'une de mes idées de code en C++.
+  (Le code en question est l'implémentation de classes C++ de nombres décorés (decorated numbers).
+   Il y a aussi le code de classes C++ pour la gestion de type intrusifs.
+   https://github.com/arapelle/arba-itru
+  )
+  Le but était d'impressionner Emma pour la séduire.
+  L'autre but était aussi de convaincre Netatmo qu'il avait un bon niveau en C++.
+
+# cpp_copieur_03
+
+Clément Radolanirina s'est fait passer pour l'auteur de l'une de mes idées de code en Python.
+  (Le code en question est l'outil de création de fichiers et dossiers basé sur des templates.
+   https://github.com/arapelle/temgen
+  )
+  Le but était d'impressionner Emma pour la séduire.
+  L'autre but était aussi d'essayer de se faire embaucher dans l'entreprise en Asie de Julien, au cas où...
+
+--
+
+Je certifie que je suis l'auteur de ce fichier, dont je confirme le contenu.
+Aymeric Pellé

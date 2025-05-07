@@ -24,12 +24,12 @@ Uniques:
   .lire les pensées [connaissance et sagesse]
 
 
-2025-01-16
+2025-05-07
 L'animal associé à chaque élément et concept:
   .feu: coq
   .eau: serpent
   .air: aigle
-  .terre: belette
+  .terre: tigre
   .lumière: éléphant
   .végétal: chat
   .éclair: salamandre

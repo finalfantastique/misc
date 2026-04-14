@@ -1,0 +1,39 @@
+
+- situation__script_1
+
+Je suis l'auteur de différents projets informatiques présent sur Github et Codeberg.
+Les principaux comptes contenant les dépôts de code sont les suivant:
+
+https://github.com/arapelle?tab=repositories
+https://codeberg.org/amberval?tab=repositories
+
+Pour rappel, je suis l'auteur et développeur d'arba de arba-cppx jusqu'à arba-appt.
+Un nouveau projet arba a été commencé depuis au moins avril 2025, appelé arba-exec (https://codeberg.org/amberval/arba-exec).
+Ce projet définit différente classes pour gérer des tâches d'exécution, notamment périodique.
+  classes et concepts: metronome, execution_token, resource_builder, Frequency, ...
+J'ai eu l'idée en 2025, (non développée à l'époque) d'un outil pour gérer des tâches périodiques: timer_manager.
+  Ce timer_manager gère différentes de temps. Pour chaque période de temps (200ms, 1s, ...), une liste de timer est associée et doit être mise à jour 
+    en fonction du temps.
+    Les timer ne sont mis à jour qu'à chaque tick de la période (200ms, 1s, ...): cela évite de parcourir tous les timers à chaque tour de 
+      boucle (16ms pour 60Hz). Ex: Une tâche périodique à 500ms sera mise à jour  que deux foix par la période de 200ms, avant de passer entre les 
+      mains d'une période plus courte.
+
+(Un autre projet a été commencé en 2025: arba-aloc. Le but est de fournir des allocators (pool_allocator)... Projet en cours de dev.)
+(arba-rand propose depuis 2025 des algorithme pour généré un 'range' de bytes aléatoires: xoron64_range_engine, ...)
+
+Au sujet du projet arba-cryp: Il s'agit d'un projet d'algorithme de cryptographie.
+L'algorithme symcrypt a été développé depuis fin 2019.  Ils s'agit d'un algo de chiffrage symétrique.
+Pour chaque octet, on ajoute une addition (un offset), et une rotation de bits.
+Plusieurs améliorations ont été imaginées pour cette algo. Cela a débouché sur la preuve de concept de la branche de développement: adro64_encryptor.
+On travaille par bloc de 64 bits plutôt que octet par octet. (plus rapide)
+De plus, les opérations de modulo sont améliorées en utilisant des nombres premiers. 
+  (Cela augmente la combinatoire et évite la redondance des opérations de chiffrement.)
+  (maths: https://chat.mistral.ai/chat/36876b53-56e6-492f-b0ce-ba8e7c9fa8a2)
+
+Au passage, je suis toujours l'auteur de temgen, cmtk.
+De ce dernier, deux nouveaux projets ont vu le jour cmaketk et cmakecc.
+
+--
+
+Je certifie que je suis l'auteur de ce fichier, dont je confirme le contenu.
+Aymeric Pellé

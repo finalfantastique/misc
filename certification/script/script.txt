@@ -10,6 +10,11 @@ A ce jour, il n'y a que les repositories des comptes Github suivants à considé
 Pour qu'un changement à cette déclaration puisse être considéré, 
   il faut que cette vidéo ne se retrouve dans aucun des comptes cités.
 
+V2
+
+Les repositories Github cités plus haut ne sont plus à considérer.
+(La vidéo est supprimée. commit #273b168)
+
 --
 
 Je certifie que je suis l'auteur de ce fichier, dont je confirme le contenu.
